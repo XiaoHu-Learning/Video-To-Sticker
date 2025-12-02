@@ -1,4 +1,4 @@
-# 🎬 影片截取 + AI 智能去背工具 (Video to Sticker Master)
+# 🎬 影片截取 + AI 智能去背工具 (Video to Sticker)
 
 這是一個基於 Python 與 Gradio 開發的工具，專為 **AI 繪圖創作** 與 **LINE 動態貼圖創作** 打造（做 GIF Sticker 應該也非常合適）。
 
