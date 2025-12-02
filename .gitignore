@@ -1,0 +1,20 @@
+# --- Python 系統檔 (絕對不要上傳) ---
+venv/
+__pycache__/
+*.py[cod]
+.env
+
+# --- macOS 系統垃圾檔 ---
+.DS_Store
+
+# --- 專案輸出與暫存 ---
+# 忽略測試影片，避免 GitHub 容量爆掉
+*.mp4
+*.mov
+*.avi
+
+# 忽略打包好的 ZIP 檔
+*.zip
+
+# 忽略程式產生的暫存資料夾
+temp/
